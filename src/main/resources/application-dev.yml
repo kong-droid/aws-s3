@@ -9,6 +9,3 @@ cloud:
     credentials:
       access-key: your access key.
       secret-key: your secret key.
-    cloudfront:
-      log:
-        group: your cloud watch log path.
