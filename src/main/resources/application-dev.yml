@@ -1,0 +1,14 @@
+logging:
+  file:
+    path: logging path.
+
+cloud:
+  aws:
+    s3:
+      bucket: your s3 domain.
+    credentials:
+      access-key: your access key.
+      secret-key: your secret key.
+    cloudfront:
+      log:
+        group: your cloud watch log path.
