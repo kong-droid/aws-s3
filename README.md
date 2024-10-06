@@ -7,7 +7,7 @@ AWS S3 Test
 - spring version: 2.7.18
 ```
 
-### CloudWatch Library
+### S3 Library
 ```
 - org.springframework.cloud:spring-cloud-starter-aws : 2.2.6.RELEASE
 ```
