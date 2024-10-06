@@ -18,7 +18,7 @@ server:
 
 spring:
   application:
-    name: aws-s3
+    name: aws-s3 
   profiles:
     active: local
 
